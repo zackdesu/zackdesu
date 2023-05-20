@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🌱 I’m currently learning React<br>💬 Ask me about JavaScript
+🌱 I’m currently learning Next.js<br>💬 Ask me about JavaScript
 
 ## 🌐 Socials:
 
