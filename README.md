@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🌱 I’m currently learning Next.js<br>💬 Ask me about JavaScript
+🌱 I’m currently running on "[presensi-osis](https://github.com/zackdesu/presensi-osis)" repository.<br>💬 Ask me about JavaScript & TypeScript
 
 ## 🌐 Socials:
 
